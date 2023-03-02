@@ -9,7 +9,7 @@ sayHello();
 const addNumbers = (num1,num2) =>{
     console.log(num1+num2);
 }
-addNumbers(3,4);
+addNumbers(3,5);
 
 const sayMayName =(name,age)=>{
     return `My name is ${name} and i am ${age}`
